@@ -1,2 +1,2 @@
-# Github_Teste
-Aprendendo a usar o Github
+# GitHub_Minicurso
+Repositório criado para testes do minicurso sobre github
